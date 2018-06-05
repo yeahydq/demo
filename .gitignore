@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__
+*.pyc
+logs/
+*.hdf5
+generated_captcha_images
+extracted_letter_images
+*.gz
+*data*
+*.csv
+*.zip
+*.dat
